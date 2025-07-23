@@ -2,8 +2,8 @@
 
 A dynamic and intuitive dashboard built in **Power BI** for tracking and optimizing production performance.
 
-![Dashboard Preview](<img width="1378" height="771" alt="ProductionDashboard - Power BI - Google Chrome 22_07_2025 22_37_24" src="https://github.com/user-attachments/assets/14349a85-5e0d-43e2-9519-b3f64ff80bf3" />
-)
+![Dashboard Preview](https://github.com/user-attachments/assets/14349a85-5e0d-43e2-9519-b3f64ff80bf3)
+
 
 ## 📌 Features
 

@@ -5,7 +5,7 @@ A dynamic and intuitive dashboard built in **Power BI** for tracking and optimiz
 ![Dashboard Preview](https://github.com/user-attachments/assets/14349a85-5e0d-43e2-9519-b3f64ff80bf3)
 
 🔗 **Live Dashboard or Report Access:**  
-[Click here to view the dashboard](INSERT-YOUR-DASHBOARD-[[LINK-HERE](https://app.powerbi.com/view?r=eyJrIjoiYWRkNDc5ZWYtMjg0Mi00NjhiLTgzMGUtNDMyYTEyZDk0NTBkIiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9)])
+[Click here to view the dashboard]([INSERT-YOUR-DASHBOARD-LINK-HERE](https://app.powerbi.com/view?r=eyJrIjoiYWRkNDc5ZWYtMjg0Mi00NjhiLTgzMGUtNDMyYTEyZDk0NTBkIiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9))
 
 ## 📌 Features
 
